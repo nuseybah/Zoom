@@ -1,0 +1,200 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+.Header{
+background-color: hwb(308 1% 81%);
+height: 650px;
+padding: 20px;
+margin-left: 40px;
+margin-right: 40px;
+margin-top: 20px;
+border: 2px;
+
+
+
+}
+.Tob{
+    justify-content: space-between;
+    display:flex;
+}
+
+ul li{
+
+}
+ 
+
+.Header h1{
+ 
+        color: white;
+        font-size: 18px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+}
+
+.Bsness {
+    margin-top:  15px;
+    color: white;
+    text-align: center;
+}
+
+.Business h1{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.name{
+
+    margin-right: 40px;
+}
+.name iconify-icon{
+    font-size: 20px;
+    color: red;
+} 
+
+.Header p{
+
+    margin-top: 5px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.Laction{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.Laction .icop{
+    margin-right: 8px;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.Laction h4{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.Font{
+    color: white;
+    text-align: center;
+}
+.Font h4{
+    font-family: initial;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.Footer{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Header p a{
+    color: white;
+}
+.down pre{
+
+    color: white;
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+}
+
+.lastly .Iconi {
+
+    color: white;
+    font-size: 30px;
+
+}
+
+.lastly h5{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+}
+.lastly{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+
+}
+
+
+
+
+ ul li{
+
+     display: inline-block;
+
+     justify-content: space-between;
+     padding-bottom: 20px;
+
+    
+ }
+ul li a{
+        padding: 20px;
+    
+        text-decoration: none;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+     
+} 
+.name{
+        display: flex;
+       
+}
+.log{
+        display: flex;
+        justify-content: space-evenly;
+        margin-right: 20px;
+
+}
+button{
+    height: 20px;
+    border: none;
+    border-radius: 10px;
+    background-color: red;
+    color: white;
+    width: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}                     
+
+
+.log h3{
+    margin-right: 30px;
+    font-size: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Center{
+    display: flex;
+    justify-content:  center;
+
+
+}
+Input{
+    border: none;
+    border-radius: 18px;
+    height: 35px;
+    width: 300px;
+    margin-right: 3px;
+    padding-left: 10px;
+    
+}
+button{
+    border-radius: 18px;
+    height: 35px;
+    width: 100px;
+    border: none;
+    margin-left: 3px;
+     
+}
+
